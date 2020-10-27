@@ -1,0 +1,3 @@
+var myFirstName = "Daniel";
+var myLastName = "Ramos";
+
